@@ -2,13 +2,13 @@
 İnternet Anonimlerinden Bir Hacker
 #  F3RNR1S | Shadow Operations
 
-> **"Girer ama bozmaz."**
+> #Girer ama bozmaz.
 
 Dijital mimarinin açıklarını keşfeden, veriye değil sisteme odaklanan bir gölge araştırmacı.
 
 ---
 
-### Kullandığı Teknikler
+# Kullandığı Teknikler
 1. **Gözlemle, Dokunma:** Sadece açığı tespit et, sistemin işleyişine zarar verme.
 2. **Veri Kutsaldır:** Kişisel verilere dokunma, sızdırma; mahremiyete saygı duy.
 3. **İz Bırakma:** Operasyon bittiğinde tüm dijital ayak izlerini temizle.
