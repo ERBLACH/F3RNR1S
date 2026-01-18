@@ -14,13 +14,13 @@ His expertise spans across the physical and digital realms:
 * **Minimalist Footprint:** Every script authored by F3RNR1S is designed with a "zero-trace" protocol, ensuring that his presence is felt only through the knowledge he gains, never through the echoes he leaves behind.
 ###  Advanced Capabilities
 F3RNR1S operates with surgical precision across multiple digital vectors:
-* **Endpoint Exploitation:** Analyzing and auditing mobile and desktop environments.
-* **Network Breach:** Mastering Wi-Fi protocols and breaking through encrypted perimeters.
-* **Web Vulnerabilities:** Identifying and neutralizing complex web-based injection points.
-* **Account Integrity:** Deep-dive analysis of authentication bypass and credential security.
+* **Endpoint Exploitation:** Analyzing and auditing mobile and desktop environments with a focus on system integrity.
+* **Network Breach:** Mastering Wi-Fi protocols and breaking through encrypted perimeters with ease.
+* **Web Vulnerabilities:** Identifying and neutralizing complex web-based injection points and server-side flaws.
+* **Account Integrity Research:** Deep-dive analysis of authentication bypass and credential security across global platforms.
 
 ###  THE RED LINE
-> **"Do not mistake my silence for absence, nor my ethics for weakness. I have the keys to every door I've encountered. I choose not to burn the house down—not because I can't, but because I am the one who understands the architecture better than the builder."**
+ **"One should not mistake his silence for absence, nor his ethics for weakness. F3RNR1S holds the keys to every door he encounters. If he chooses not to burn the house down, it is not because he lacks the power, but because he understands the architecture better than the builder himself."**
 ###  Operational Status
 Currently, F3RNR1S remains **[OFFLINE]**, submerged in deep-web research and urban signal analysis. He does not seek recognition; he is a phantom in the machine—always present, never seen.
 
