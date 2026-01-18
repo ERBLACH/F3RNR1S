@@ -9,7 +9,7 @@ F3RNR1S operates with a strict ethical compass. To him, data is a sacred boundar
 
 ###  Technical Mastery
 His expertise spans across the physical and digital realms:
-* **HID & Hardware Exploitation:** Mastering tools like Digispark and custom BadUSB devices to bridge the gap between physical access and digital control.
+* **HID & Hardware Exploitation:** Specializing in tools like Digispark and custom BadUSB devices to bridge the gap between physical access and digital control.
 * **Network Anatomy:** Analyzing wireless protocols and signal traffic to map the hidden ley lines of urban connectivity.
 * **Minimalist Footprint:** Every script authored by F3RNR1S is designed with a "zero-trace" protocol, ensuring that his presence is felt only through the knowledge he gains, never through the echoes he leaves behind.
 
