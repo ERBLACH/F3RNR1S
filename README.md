@@ -1,57 +1,36 @@
-# [F3RNR1S] | Advanced Security Research & Operational Intelligence
+# [F3RNR1S] | Advanced Reconnaissance & Operational Logs
 
-This repository is a dedicated technical logbook for multi-vector security audits, forensic research, and digital reconnaissance. Unlike standard offensive repositories, F3RNR1S focuses on the **architectural vulnerabilities** of systems and the **psychological patterns** of digital security. 
+this is not a work of fiction. everything documented here is based on real-life events, technical audits, and field experience. no stories, just methodology.
 
-This record is based on real-world case studies and technical implementations. It is a testament to the fact that true security is not just about code, but about understanding the environment.
+### operational domains
 
----
+**1. hardware & physical access (hid)**
+if i have physical access, the system is mine. expertise in digispark, rubber ducky, and custom badusb payloads. i focus on bypassing edr/antivirus via keyboard emulation, achieving persistence in seconds, and lateral movement without leaving disk traces.
 
-##  Technical Specializations & Domains
+**2. signal intelligence (sigint)**
+every wave carries data. monitoring 802.11 stack vulnerabilities, wpa2/wpa3 handshake capture, and deauthentication tactics. mapping urban wireless density to find the weakest entry point. if it broadcasts, it’s vulnerable.
 
-### 1. Physical Layer & HID Exploitation
-* **Vector:** Endpoint integrity assessment via Physical Access.
-* **Hardware:** Expertise in Digispark ATtiny85, Rubber Ducky payloads, and custom BadUSB configurations.
-* **Focus:** In-memory execution, keystroke injection, and bypassing physical air-gaps without triggering hardware-level alerts.
+**3. surgical osint**
+i don’t need a name to find a target. i map digital shadows through leaked databases, metadata analysis, and social engineering surface mapping. i hack the human before i touch the machine.
 
-### 2. Signal Intelligence (SIGINT) & Wireless Security
-* **Vector:** 802.11 Stack & RF Communications.
-* **Analysis:** Mapping urban signal density, analyzing packet encapsulation in WPA2/WPA3 environments, and identifying rogue access points.
-* **Focus:** Traffic correlation and signal privacy protocols.
-
-### 3. OSINT (Open Source Intelligence) & Digital Footprinting
-* **Vector:** Global Data Aggregation.
-* **Techniques:** Cross-platform data correlation, leaked credential indexing, and social engineering surface mapping.
-* **Goal:** Mapping a target's digital shadow with surgical precision before any technical interaction occurs.
-
-### 4. Zero-Trace Anti-Forensics
-* **Focus:** Minimizing the forensic footprint during diagnostic audits.
-* **Methods:** RAM-only execution volatility-aware operations and precise log neutralization to ensure a 0.01% detection probability in post-incident analysis.
+**4. anti-forensics (zero-trace)**
+the best operator is the one who was never there. in-memory execution, volatile storage utilization, and surgical log neutralization. designed to leave forensic teams with zero evidence.
 
 ---
 
-##  The F3RNR1S Doctrine: The 3-Week Rule
+### the f3rnr1s doctrine: the 3-week rule
 
-Success in high-stakes auditing is defined by patience not speed. The F3RNR1S methodology follows a strict ethical and operational framework:
+speed is for amateurs; patience is for professionals. my methodology follows a strict 21-day cycle:
 
-1.  **Passive Reconnaissance (The 3-Week Phase):** No active packets, no interaction. We observe the target's digital rhythm for 21 days. We analyze patterns, uptime, and habits. This phase ensures that the researcher remains invisible to automated IDS (Intrusion Detection Systems).
-2.  **Diagnostic Non-Destruction:** Access is a tool for understanding, not destroying. We enter to analyze the "DNA" of the system. Every audit concludes with a "Status Quo" reset—leaving the system exactly as it was found.
-3.  **Ethical Neutrality (Grey Hat):** We do not seek permission, but we do not cause harm. We operate in the grey space where the goal is to uncover the truth of a system's insecurity.
-
----
-
-## Operational Status & Metrics
-
-| Metric | Status / Value |
-| :--- | :--- |
-| **Current Mode** | [ACTIVE_RESEARCH] |
-| **Focus Area** | Urban Signal Privacy & Deep Web Correlation |
-| **Trace Level** | Optimized Anti-Forensic (Minimal) |
-| **System Identity** | Invisible / Non-Fictional Record |
+* **passive phase:** 21 days of pure observation. monitoring traffic patterns, system uptime, and user habits. zero packets sent, zero noise made. 
+* **diagnostic entry:** once the gap is found, access is established. no destruction, no vandalism. the goal is to prove the architecture is compromised.
+* **extraction & cleanup:** exit with total surgical precision. no alerts, no logs, no residues. "enter the system, analyze the core, leave it untouched."
 
 ---
 
-##  Closing Protocol
+### operational status
+* **mode:** [ACTIVE_RESEARCH]
+* **focus:** urban signal privacy & deep web data correlation.
+* **trace:** 0.0% detectable. anti-forensic protocols engaged.
 
-> "A wall is only a wall to those who do not understand how it was built. To the architect, every wall is a series of decisions—and every decision has a bypass. We do not break the system; we simply exist within its overlooked spaces."
-
-**[STATUS: UNCHAINED | LOGS: ENCRYPTED | TRACE: 0.0 ]**
+> "i found the key, i opened the door, and i left exactly as i entered. you only know i was there because i chose to tell you."
