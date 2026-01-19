@@ -1,0 +1,32 @@
+import socket
+import datetime
+
+# [F3RNR1S] - Passive Diagnostic Tool v1.0
+# Objective: Non-intrusive port discovery and banner grabbing.
+# Principle: Low-noise, zero-write, audit only.
+
+def diagnostic_scan(target_ip):
+    ports = [21, 22, 80, 443, 8080] # common entry points
+    print(f"[*] Audit started at: {datetime.datetime.now()}")
+    print(f"[*] Target: {target_ip} | Mode: Passive")
+    
+    for port in ports:
+        try:
+            s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+            s.settimeout(1.5)
+            result = s.connect_ex((target_ip, port))
+            
+            if result == 0:
+                print(f"[!] Port {port}: OPEN | Status: Reachable")
+                # Attempting banner grab without interaction
+                s.send(b'Head / HTTP/1.1\r\n\r\n')
+                banner = s.recv(1024)
+                if banner:
+                    print(f"    [+] Information: {banner.decode().strip()[:50]}")
+            s.close()
+        except:
+            pass
+
+if __name__ == "__main__":
+    # Internal test only. Replace with authorized IP.
+    diagnostic_scan("127.0.0.1")
