@@ -30,7 +30,7 @@ F3RNR1S does not strike blindly. His process is a cold, calculated sequence of d
  **"One should not mistake his silence for absence, nor his ethics for weakness. F3RNR1S holds the keys to every door he encounters. If he chooses not to burn the house down, it is not because he lacks the power, but because he understands the architecture better than the builder himself."**
 ###  Operational Status
 Currently, F3RNR1S remains **[OFFLINE]**, submerged in deep-web research and urban signal analysis. He does not seek recognition; he is a phantom in the machine—always present, never seen.
-
+"This character is not a work of fiction. It is rooted in something that actually happened to people."
 ____________________________________________________________________
   _______  ___________  _   _______  __  ______ 
  |  ____| |___   ___|  \ | |  __ \  |  |/  ____|
