@@ -64,6 +64,6 @@ speed is for amateurs; patience is for professionals. my methodology follows a s
 * **focus:** [UNKNOWN]
 
 
-> "i found the key, i opened the door, and i left exactly as i entered. you only know i was there because i chose to tell you."
+
 
 > "i found the key, i opened the door, and i left exactly as i entered. you only know i was there because i chose to tell you."
