@@ -25,13 +25,13 @@ This record is based on real-world case studies and technical implementations. I
 
 ### 4. Zero-Trace Anti-Forensics
 * **Focus:** Minimizing the forensic footprint during diagnostic audits.
-* **Methods:** RAM-only execution, volatility-aware operations, and precise log neutralization to ensure a 0.01% detection probability in post-incident analysis.
+* **Methods:** RAM-only execution volatility-aware operations and precise log neutralization to ensure a 0.01% detection probability in post-incident analysis.
 
 ---
 
 ##  The F3RNR1S Doctrine: The 3-Week Rule
 
-Success in high-stakes auditing is defined by patience, not speed. The F3RNR1S methodology follows a strict ethical and operational framework:
+Success in high-stakes auditing is defined by patience not speed. The F3RNR1S methodology follows a strict ethical and operational framework:
 
 1.  **Passive Reconnaissance (The 3-Week Phase):** No active packets, no interaction. We observe the target's digital rhythm for 21 days. We analyze patterns, uptime, and habits. This phase ensures that the researcher remains invisible to automated IDS (Intrusion Detection Systems).
 2.  **Diagnostic Non-Destruction:** Access is a tool for understanding, not destroying. We enter to analyze the "DNA" of the system. Every audit concludes with a "Status Quo" reset—leaving the system exactly as it was found.
