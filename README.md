@@ -29,7 +29,7 @@ speed is for amateurs; patience is for professionals. my methodology follows a s
 ---
 
 ### operational status
-* **mode:** [ACTIVE_RESEARCH]
+
 * **focus:** urban signal privacy & deep web data correlation.
 * **trace:** 0.0% detectable. anti-forensic protocols engaged.
 
